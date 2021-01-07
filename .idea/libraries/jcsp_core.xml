@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jcsp-core">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jcsp-1.1-rc4/jcsp-1.1-rc4/jcsp-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
